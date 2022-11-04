@@ -16,13 +16,10 @@ The application which is used to drive the car is created using MIT App Inventor
 ### 1. Icon:
 ![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/MedBuddy_Icon.jpg)
 
-### 2. App Interface:
-![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/App_Interface.jpeg)
-
-### 3. Rear view of MedBuddy:
+### 2. Rear view of MedBuddy:
 ![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/Rear_View.jpeg)
 
-### 4. Side View of MedBuddy:
+### 3. Side View of MedBuddy:
 ![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/Side_view.jpeg)
 
 ###### Note: This is a prototype of the prototype.
