@@ -22,8 +22,4 @@ The application which is used to drive the car is created using MIT App Inventor
 ### 3. Side View of MedBuddy:
 ![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/Side_view.jpeg)
 
-###### Note: This is a prototype of the prototype.
 
-#### ©The code, the pictures and the idea behind the project solely belong to me. Do not copy as it may lead to copyright infringement. If the code is to be used for research purposes please give the necessary credits or a shoutout.
-
-##### This project and the App Interface is inspired by [Muhammad Ansar Sir](https://github.com/embeddedlab786/Cam_Control_Robot). 
